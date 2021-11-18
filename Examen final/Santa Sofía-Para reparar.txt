@@ -1,0 +1,137 @@
+<html>
+<head> 
+ 	<title>Santa Sofía</title> 
+
+</head> 
+
+<body background="fondo1.jpg" bgcolor="F27E77">
+	<H1>
+	<center>
+<font color="black"> La Gran Santa Sofía 
+<I>
+<br>
+	</H1>
+</center>
+</I>
+</I> 
+</font>
+	<br>
+	<br>
+	<center> 
+<img src="Santa sofia.jpg.">
+ 	</center>
+	<br>
+	<br>
+
+	<center>
+	<H1> 
+	<strong>
+<font color="black"> Un poco de Santa Sofía o Hagia Sofía 
+	</center>
+	</H1>
+	</strong> 
+	<br>
+	<center>
+	 
+<P> 
+<I>
+<H4>Cuando hablamos de Santa Sofía o en turco Hagia Sofía, Ayasofya se le define como magnífica, increíble, preciosa, innumerable fue una epifanía a la época así podemos definir a Santa Sofía. Primero hablemos de ella; está fue sede religiosa del Imperio Bizantino en Constantinopla capital de tal imperio, dentro de esta estaba totalmente amurallada difícil de penetrar, por dentro preciosas piedras llena de oro y metales preciosos. Esta funcionaba como una Catedral Ortodoxa, pero fue secularizada o cambiada a Mezquita por la conquista por el Sultán Mehmet II dónde sufrió severas remodelaciones. Actualmente es sede del Islam, funciona como Mezquita y punto de encuentro a nivel nacional. Ha sido de inspiración para Mezquitas importantes como lo son la Mezquita Azul o la del Sultán Solimán. 
+Se ha pronunciado que al entrar en esta la paz yace. Ha sido transformada, no hay imágenes de hombres ya que ha sido tapada, solo hay bellas artes religiosas del Islam y atributos, pinturas al Señor Alah y sus encargados. Pero destaca la pintura Otomana. 
+	</center>
+</P>
+</I>
+</H4> 
+ 
+	<center>
+	<H1> 
+	<strong>
+<font color="black">¿Por qué deberías conocer Santa Sofía?
+	</center>
+	</H1>
+	</strong> 
+<I>
+    <li>Conocerás la historia a la mano. </li>
+    <li>Conocerás lugares de frente, con pruebas y de los expertos. </li>
+    <li>Santa Sofía esta rodeada de diferentes lugares turísticos. Dentro de estos están restaurantes y mezquitas. </li>
+	<li>Buenos precios. </li>
+    	<li>Turquía es un país un tanto abierto a ciertas ideas, que otros países musulmanes no aceptan. </li>
+</ul>
+ </I>
+
+	<center>
+	<H1>
+	<I> 
+	<strong>
+<font color="black"> Tarifas por lugares en Estambul-Santa Sofía 
+	</center>
+	</H1>
+	</I>	
+	</strong> 
+
+
+	<center>
+	<H4>
+	<I>
+<table class="default">
+  <tr>
+    <th>Lugares-tour</th>
+    <th>Precios</th>
+</tr>
+  <tr>
+
+<td>Card para lugares </td>
+
+ <td>Mejores lugares de Estambul</td>
+
+ <td>Santa Sofía, Tokapi y Cisterna</td>
+
+<td>Tour guiado Santa Sofía</td>
+
+<td>Tour grupal Santa Sofía y Mezquita Azul</td>
+
+</tr>
+
+<tr> 
+<td>€63.73 </td>
+
+    <td>€67.52</td>
+
+    <td>€50.35</td>
+
+<td>€17.17</td>
+
+<td>€59.79</td>
+
+	<center>
+	<H4>
+	<I>
+  	</tr>
+
+<center>
+<font color="black"> Recursos, enlances e imágenes 
+<I>
+<br>
+
+
+
+<center>
+<P> 
+<h4> Estructura de Santa Sofía 
+<A HREF="https://youtu.be/TQrH76-5-VA"> 
+
+<h4>Documental acerca de Hagia Sofía 
+<A HREF="https://youtu.be/4lD89Y3qmNs"> 
+
+<A HREF="https://www.estambul.es/santa-sofia"><img src="santa1.jpg"><br>
+<h4>Enlace a otro Web-Site  
+
+</font>
+</center> 
+</I>
+</p>
+</h4>
+</a>
+
+</body>
+</html>
+	
